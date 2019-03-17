@@ -1,0 +1,14 @@
+/GuardAndFilter/.vs
+/GuardAndFilter/FilterDLL/zLib/Debug
+/GuardAndFilter/FilterDLL/zLib/Release
+/GuardAndFilter/FilterDLL/zLib/x64
+/GuardAndFilter/FilterDLL/.vs
+/GuardAndFilter/Debug
+/GuardAndFilter/x64
+/GuardAndFilter/Release
+/GuardAndFilter/packages
+/GuardAndFilter/AgentServer/bin
+/GuardAndFilter/AgentServer/obj
+/GuardAndFilter/GatewayServer/bin
+/GuardAndFilter/GatewayServer/obj
+
